@@ -14,7 +14,7 @@ int main()
     system("echo.");
     system("echo.");
     system("echo.");
-    system("echo Made by skidaim#0607"); //change this if you're gay
+    system("echo Made by tumx#1337"); //change this if you're gay
     system("echo.");
     system("echo.");
     system("echo.");
